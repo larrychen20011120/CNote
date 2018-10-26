@@ -25,6 +25,6 @@ vec.clear() - 清空所有元素。
 vec.empty() - 如果 vector 內部為空，則傳回 true 值。
 vec.size() - 取得 vector 目前持有的元素個數。
 vec.resize() - 改變 vector 目前持有的元素個數。
-vec.capacity() - 取得 vector 目前可容納的最大元素個數。這個方法與記憶體的配置有關，它通常只會增加，不會因為元素被刪減而隨之減少。
+vec.capacity() - 取得 vector 目前可容納的最大元素個數。這個方法與記憶體的配置有關，它通常只會增加。
 ```
 
