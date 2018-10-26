@@ -20,7 +20,7 @@ vec.erase() - 刪除 vector 中一個或多個元素。
 vec.clear() - 清空所有元素。
 ```
 
-##　取的長度//容量
+## 取的長度//容量
 ```
 vec.empty() - 如果 vector 內部為空，則傳回 true 值。
 vec.size() - 取得 vector 目前持有的元素個數。
